@@ -1,3 +1,9 @@
+# Companion code for my YouTube video
+
+### You can find the video [here](https://www.youtube.com/watch?v=3Q1J6vz3Q2Q)
+
+![img.png](img.png)
+
 # Welcome to your CDK TypeScript project
 
 This is a blank project for CDK development with TypeScript.
